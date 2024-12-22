@@ -14,3 +14,6 @@ public partial class NewScript : Node
 	}
 }
 //hi!!!!
+
+
+// THIS CODE IS TERRIBLE
